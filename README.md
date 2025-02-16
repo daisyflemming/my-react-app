@@ -1,2 +1,1 @@
-# my-react-app
- 
+export GOOGLE_APPLICATION_CREDETIAL="/Users/daisyflemming/.local/GoogleCloud/steam-house-218614-bd8782114913.json"
